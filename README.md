@@ -1,10 +1,16 @@
 Departamento de Engenharias Escola de Ciências e Tecnologia Universidade de Trás-os-Montes e Alto Douro
 
-Licenciatura em Engenharia Informática / 1º Ano
+Licenciatura em Engenharia Informática / 2º Ano
 
-Laboratório de informática e computadores
+Laboratório de planeamento e desenvolvimento de software
 
--> Hanabi in C
+-> RSS Reader,
+
+developed in C# and .NET,
+
+for Windows and Android,
+
+using Windows Presentation Foundation and Xamarin.Forms, respectively.
 
 Em conjunto com:
 
